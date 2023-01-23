@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "My Extension",
+  "version": "1.0",
+  "permissions": ["https://mtpro.xyz/api/?type=mtproto"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}

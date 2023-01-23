@@ -1,0 +1,17 @@
+a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+td {
+    max-width:80px;
+    overflow-wrap: break-word;
+}
+
+.main-header{
+    margin: auto;
+    background-color: #0693e3;
+}
+h4{
+    color: white;
+}
