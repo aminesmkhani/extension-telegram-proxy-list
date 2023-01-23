@@ -1,7 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "My Extension",
+  "name": "Unlimited Telegram Proxy List",
   "version": "1.0",
+  "description": "Telegram Mtproto Proxy List Firefox Extension! ",
+  "icons": {
+    "48": "src/telegram-proxy-list-extension-icon.png"
+  },
   "permissions": ["https://mtpro.xyz/api/?type=mtproto"],
   "browser_action": {
     "default_popup": "popup.html"
